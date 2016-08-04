@@ -375,7 +375,8 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="be2826" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -407,7 +408,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="819596" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
