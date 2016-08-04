@@ -1,0 +1,5 @@
+<templateSet group="PHP">
+  <template name="zd" value="Zend_Debug::dump($END$);&#10;exit;" description="Zend_Debug with exit" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
