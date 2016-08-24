@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="old" type="PHP" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="wercker" type="XML" />
       <mapping ext="cat" type="XML" />
