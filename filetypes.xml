@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="stub" type="PHP" />
       <mapping ext="old" type="PHP" />
+      <mapping pattern="0d720b962b983bb36692a1114782c474962b14f1" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="wercker" type="XML" />
       <mapping ext="cat" type="XML" />
