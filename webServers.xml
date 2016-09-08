@@ -4,6 +4,14 @@
       <webServer id="c80c6ff5-fa73-480b-8324-e61f962bc648" name="Ace and Tate" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8b1f6a3b-13ab-4d47-a427-c4d5b240c3b5" name="Ace &amp; Tate DO staging2" url="http://37.139.6.144">
+        <fileTransfer host="37.139.6.144" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
