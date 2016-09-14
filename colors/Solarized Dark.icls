@@ -1747,6 +1747,7 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="dc322f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
