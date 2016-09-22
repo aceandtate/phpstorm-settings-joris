@@ -1,4 +1,8 @@
 <scheme name="Solarized Dark" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2016-09-22T09:47:17</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Meslo LG M DZ for Powerline" />
