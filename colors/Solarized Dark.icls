@@ -1,6 +1,6 @@
 <scheme name="Solarized Dark" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2016-09-22T09:47:17</property>
+    <property name="modified">2016-09-22T11:19:52</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -2473,6 +2473,11 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="2185b4" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
