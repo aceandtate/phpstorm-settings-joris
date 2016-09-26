@@ -8,6 +8,7 @@
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="wercker" type="XML" />
       <mapping ext="cat" type="XML" />
+      <mapping ext="circle" type="XML" />
     </extensionMap>
   </component>
 </application>
