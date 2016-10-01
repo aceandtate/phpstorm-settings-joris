@@ -12,6 +12,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="7a911f1c-a6ed-48c6-9ea6-35f2bc638559" name="Local connector" url="http://local.connector.dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
