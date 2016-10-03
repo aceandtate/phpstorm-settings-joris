@@ -15,6 +15,9 @@
       <webServer id="7a911f1c-a6ed-48c6-9ea6-35f2bc638559" name="Local connector" url="http://local.connector.dev/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="050c0703-ffd9-4e15-8195-b3b00fe9f6f1" name="Local aceandtate" url="http://local.aceandtate.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

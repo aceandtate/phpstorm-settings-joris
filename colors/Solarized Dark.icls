@@ -1,10 +1,10 @@
 <scheme name="Solarized Dark" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2016-10-01T19:51:13</property>
+    <property name="modified">2016-10-03T10:16:01</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="32" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Meslo LG M DZ for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
