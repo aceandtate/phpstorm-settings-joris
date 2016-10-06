@@ -1,10 +1,8 @@
 <scheme name="Solarized Light" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="32" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Meslo LG M DZ for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -1515,9 +1513,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -2894,9 +2889,6 @@
         <option name="FOREGROUND" value="d33682" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
     </option>
     <option name="STRUCT_LIKE">
       <value>
