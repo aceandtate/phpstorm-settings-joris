@@ -1,10 +1,11 @@
 <scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
-    <property name="modified">2016-11-18T09:27:53</property>
+    <property name="modified">2016-12-30T14:09:30</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="32" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
   <option name="EDITOR_FONT_NAME" value="Meslo LG M DZ for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -1234,6 +1235,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="73642" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
