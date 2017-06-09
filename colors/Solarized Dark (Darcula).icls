@@ -1,15 +1,16 @@
 <scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="2.4166667" />
   <metaInfo>
-    <property name="modified">2017-04-06T10:27:22</property>
+    <property name="modified">2017-06-09T14:57:29</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="26" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Meslo LG M DZ for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="29" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
